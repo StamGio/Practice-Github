@@ -1,2 +1,2 @@
 # Practice-Github
-Try to understand Version Control
+Trying to understand Version Control
